@@ -1,4 +1,4 @@
-# AURA - Advanced Unified Relationship Analyzer
+# AURA - Artificial Understanding and Reasoning Assistant
 
 A lightweight Python library for data visualization, insight extraction, and interactive Q&A powered by AI.
 
